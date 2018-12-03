@@ -1,0 +1,3 @@
+describe('Frequencies', () => {
+    describe('totalDifference', () => {});
+});
